@@ -5,7 +5,8 @@ Author:kaiqi
 email:kaiqigu0110@163.com
 Date:2020-10-22
 Description:实现倾斜角度重投影到正视平面效果
-
+            题目来源： 计算机视觉life
+            
 **************************************************/
 
 #include <opencv2/opencv.hpp>
