@@ -31,8 +31,8 @@ bool sortFun(const  DMatch &p1, const  DMatch &p2) {
 int main( int argc, char** argv )
 {
 
-    Mat image1 = imread( "/home/kaiqi/workproject/epiline/euroc1.png");
-    Mat image2 = imread( "/home/kaiqi/workproject/epiline/euroc2.png");
+    Mat image1 = imread( "./euroc1.png");
+    Mat image2 = imread( "./euroc2.png");
 
     Ptr<FeatureDetector> detector = ORB::create();
     Ptr<DescriptorExtractor> descriptor = ORB::create();
