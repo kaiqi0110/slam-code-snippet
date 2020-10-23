@@ -5,7 +5,7 @@ Record part of the slam code snippets
 利用单应矩阵将墙面倾斜角度拍摄的画报变换成正视图
 
  源码：[https://github.com/kaiqi0110/slam-code-snippet/tree/main/Homography](https://github.com/kaiqi0110/slam-code-snippet/tree/main/Homography)
-
+ 视频：[https://www.bilibili.com/video/BV1gZ4y1V7ob](https://www.bilibili.com/video/BV1gZ4y1V7ob)
 **效果：**
 
 
